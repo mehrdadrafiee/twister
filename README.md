@@ -13,6 +13,8 @@ There are lots of API that we can use in out project, but due to the Twitter pol
 
 	- Twitcher API: This API does not require authentication, however you have to sing in with your twitter account to use the API.
 
+	- anyorigin: Which basically converts the url to a JSON method. Useful but needs purchase.
+
 - For each API, briefly describe how its functionality might be used in your project
 
 - Choose one API from your list and create an example web page using jQuery AJAX to call the API and display the returned results
