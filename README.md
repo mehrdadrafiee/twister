@@ -20,7 +20,7 @@ There are tons of API that we can use in out project, but due to the Twitter pol
 - Choose one API from your list and create an example web page using jQuery AJAX to call the API and display the returned results
 
 	- See the screenshots. Used Twitcher API.
-	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/twister/1.png)
+	![alt tag](https://raw.github.com/mehrdadrafiee/twister/1.png)
 
 - Describe why you chose that particular API and provide a link to its documentation
 
