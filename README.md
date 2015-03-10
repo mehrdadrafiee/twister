@@ -12,7 +12,7 @@ a web app to test the twitter API.
 - Q2 and Q3 | Research and compile a list of APIs that might be useful for your project, and For each API, briefly describe how its functionality might be used in your project
 
 ```
-There are tons of API that we can use in out project, but due to the Twitter policy change
+ There are tons of API that we can use in out project, but due to the Twitter policy change
  in Jun 2013, almost all of APIs need OAuth. Which means, we can not use them without
  authentication in out app.
 
@@ -46,16 +46,16 @@ See the screenshots. Used Twitcher API.
 - Discuss any potential issues that you can foresee with using this API in your project
 
 ```
-Developers who wants to use twitcher need to sign in with their tweeter account, then
-twitcher will assign a key value to him/her. It might not be safe/secure, because it can
-access the developer's twitter information.
+  Developers who wants to use twitcher need to sign in with their tweeter account, then
+  twitcher will assign a key value to him/her. It might not be safe/secure, because it can
+  access the developer's twitter information.
 ```
 
 - Evaluate your experience creating the example web page and make a recommendation of whether your team should use this API or keep looking for better options
 
  ```
- I tried to use other mentioned options but the implementation was not easy at all.
- Twitcher is so easy to use, however, they have not provided a good documentation.
+  I tried to use other mentioned options but the implementation was not easy at all.
+  Twitcher is so easy to use, however, they have not provided a good documentation.
  ```
 
 - Describe how the example you wrote might be expanded to use additional functionality provided by the API
