@@ -4,29 +4,35 @@ a web app to test the twitter API.
 - Briefly describe your team’s project
 
 ```
-  We will work on a Web app that will use the Twitter API. The app will allow users to create and edit goups of users to follow while providing a vote for tweets, so the proper tweet(s) will appear for each user. Wee need an API that does not require Authentication.
+  We will work on a Web app that will use the Twitter API. The app will allow users to
+  create and edit goups of users to follow while providing a vote for tweets, so the proper
+  tweet(s) will appear for each user. Wee need an API that does not require Authentication.
 ```
 
 - Q2 and Q3 | Research and compile a list of APIs that might be useful for your project, and For each API, briefly describe how its functionality might be used in your project
-```
 
+```
 There are tons of API that we can use in out project, but due to the Twitter policy change in Jun 2013, almost all of APIs need OAuth. Which means, we can not use them without authentication in out app.
 
-  Twitter Custom PHP API: This API is very useful since it provides 2 options to search for. One is using the keyword search, and the other one is using a username.
+	- Twitter Custom PHP API: This API is very useful since it provides 2 options to search for. One is using the keyword search, and the other one is using a username.
+	Link: https://github.com/robinbonnes/Custom-Twitter-PHP-API
 
-  Twitter REST API: This API needs authentication.
+	- Twitter REST API: This API needs authentication.
+	Link: https://dev.twitter.com/rest/public
 
-  Twitcher API: Twitcher API seems to be the best match for the project since it does not need authentication.
+	- Twitcher API: Twitcher API seems to be the best match for the project since it does not need authentication.
+	Link: http://twitcher.steer.me
 
-  anyorigin: Which basically converts the url to a JSON method. Useful but needs purchase.
+	- anyorigin: Which basically converts the url to a JSON method. Useful but needs purchase.
+	Link: http://anyorigin.com
   ```
 
 - Choose one API from your list and create an example web page using jQuery AJAX to call the API and display the returned results
 
 ```
 See the screenshots. Used Twitcher API.
-	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/1.png)
 ```
+	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/1.png)
 
 - Describe why you chose that particular API and provide a link to its documentation
 
