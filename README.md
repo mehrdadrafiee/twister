@@ -24,7 +24,9 @@ There are tons of API that we can use in out project, but due to the Twitter pol
 
 - Describe why you chose that particular API and provide a link to its documentation
 
+```
   - Twitcher API: This API does not require authentication, however you have to sing in with your twitter account to use the API.
+```
 
 - Discuss any potential issues that you can foresee with using this API in your project
 
