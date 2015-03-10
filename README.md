@@ -1,5 +1,5 @@
-# twister
-a web app to test the twitter API.
+# Twister
+A web app to test the twitter API.
 
 - Briefly describe your team’s project
 
