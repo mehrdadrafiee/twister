@@ -35,6 +35,10 @@ a web app to test the twitter API.
 
 See the screenshots. Used Twitcher API.
 	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/1.png)
+	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/2.png)
+	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/3.png)
+	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/4.png)
+	![alt tag](https://raw.github.com/mehrdadrafiee/twister/master/5.png)
 
 - Describe why you chose that particular API and provide a link to its documentation
 
