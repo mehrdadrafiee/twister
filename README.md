@@ -66,5 +66,5 @@ See the screenshots. Used Twitcher API.
 
   ```
   It can be expanded if we can look hashtags then find and introduce the users who has
-  the same type of interests, who live in a area (or close by).
+  the same type of interests, who lives in the same area (or close by).
   ```
